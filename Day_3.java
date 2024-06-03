@@ -1,4 +1,4 @@
-// Problem link: 
+// Problem link: https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/
 // Time: O(n)
 // Space: O(1)
 class Solution {
